@@ -44,7 +44,7 @@ div.cell.code_cell {
 }
 
 div.text_cell_render{
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Times New Roman", serif;
     line-height: 140%;
     font-size: 125%;
     font-weight: 400;
